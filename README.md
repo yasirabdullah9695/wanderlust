@@ -64,18 +64,13 @@
 
 ## 🚀 Getting Started Locally
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/Abhilesh06/PROJECT-Wanderlust.git
-   cd PROJECT-Wanderlust
-   ```
 
-2. **Install dependencies**  
+1. **Install dependencies**  
    ```bash
    npm install
    ```
 
-3. **Setup environment variables**  
+2. **Setup environment variables**  
    Create a `.env` file in the root directory and add the following:
    ```env
    CLOUDINARY_CLOUD_NAME=your_cloud_name
@@ -85,12 +80,12 @@
    SECRET=session_secret_key
    ```
 
-4. **Run the server**  
+3. **Run the server**  
    ```bash
    npm start
    ```
 
-5. Visit `http://localhost:3000` in your browser.
+4. Visit `http://localhost:3000` in your browser.
 
 --------------------
 
@@ -115,3 +110,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 This project is open-source and available under the [MIT License](LICENSE).
 
 --------------------
+
