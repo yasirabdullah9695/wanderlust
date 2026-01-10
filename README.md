@@ -20,7 +20,7 @@
   Robust validation for user input and centralized error handling ensure smooth user experience and data integrity.
 
 - **📸 Image Upload & Cloud Storage**  
-  Integrated **Multer** and **Cloudinary** for fast and secure image uploads and cloud storage.
+  Integrated **multer** and **Cloudinary** for fast and secure image uploads and cloud storage.
 
 - **🛠️ Admin Panel**  
   A dedicated admin panel for monitoring user activity, managing listings, and ensuring smooth platform operations.
@@ -39,7 +39,7 @@
 
 ### Backend
 - Node.js, Express.js
-- RESTful APIs
+- RESTful api
 - Express Router
 - Middleware & Custom Error Handlers
 
@@ -110,4 +110,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 This project is open-source and available under the [MIT License](LICENSE).
 
 --------------------
+
 
